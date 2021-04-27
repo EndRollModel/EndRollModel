@@ -1,5 +1,30 @@
 
-![EndRollModel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndRollModel&show_icons=true&theme=dracula)
+### HI. 我是EndRollModel 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EndRollModel&layout=compact&theme=dracula)
+#### 希望能與他人技術一起學習新知識 能幫到任何人就好了
 
+### 程式語言:
+
+#### - NodeJs
+
+#### - Android (Java / Kotlin)
+
+#### - Python 
+
+----
+
+### 接觸領域：
+
+#### - Android
+
+#### - LineBot / LineNotify / Discord Bot
+
+---- 
+
+### GitHubData
+
+<div>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=EndRollModel&show_icons=true&theme=dracula">
+    <br/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndRollModel&layout=compact&theme=dracula">
+</div>

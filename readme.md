@@ -28,7 +28,7 @@
     <br/>
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EndRollModel&layout=compact&theme=dracula">
     <br/>
-    <a href="https://music-card.levinvic.store/?id=313u5rd4zov6fvufwzpngtgb3hvm">
-        <img src="https://music-card.levinvic.store/?id=313u5rd4zov6fvufwzpngtgb3hvm">
-    <a>
+
 </div>
+
+![](https://music-card.levinvic.store/?id=313u5rd4zov6fvufwzpngtgb3hvm)

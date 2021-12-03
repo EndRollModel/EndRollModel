@@ -1,6 +1,6 @@
 ```javascript
 const EndRollModel = {
-    hello : "👋",
+    hello : '👋',
     description: 'a human',
     status: 'Android Developer',
     language: ['Java', 'Kotlin', 'NodeJs', 'Python'],

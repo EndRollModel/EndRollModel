@@ -1,9 +1,9 @@
 ```javascript
 const EndRollModel = {
-    hello : '👋',
-    description: 'a human',
+    hello : '(　ﾟ∀ﾟ) ﾉ',
+    description: 'like music, rpg, pixel game',
     status: 'Android Developer',
-    language: ['Java', 'Kotlin', 'NodeJs', 'Python'],
+    tech: ['Java', 'Kotlin', 'NodeJs', 'Python']
 }
 ```
 
